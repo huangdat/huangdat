@@ -1,13 +1,14 @@
 <h1 align="center">Greetings 👋, I am Nguyen Hoang Dat</h1>
 <h3 align="center">Software engineer from South Vietnam</h3>
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/ho%C3%A0ng-%C4%91%E1%BA%A1t-1363072a5/](https://www.linkedin.com/in/ho%C3%A0ng-%C4%91%E1%BA%A1t-1363072a5/)
+- 👨‍💻 All of my projects are available at <a href = "https://www.linkedin.com/in/ho%C3%A0ng-%C4%91%E1%BA%A1t-1363072a5/">LinkedIn</a>
+- [https://www.linkedin.com/in/ho%C3%A0ng-%C4%91%E1%BA%A1t-1363072a5/](https://www.linkedin.com/in/ho%C3%A0ng-%C4%91%E1%BA%A1t-1363072a5/)
 
 - 💬 Ask me about **nothing**
 
 - 📫 How to reach me **hoangdat060504@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/ho%C3%A0ng-%C4%91%E1%BA%A1t-1363072a5/](https://www.linkedin.com/in/ho%C3%A0ng-%C4%91%E1%BA%A1t-1363072a5/)
+- 📄 Know about my experiences <a href = "https://www.linkedin.com/in/ho%C3%A0ng-%C4%91%E1%BA%A1t-1363072a5/">LinkedIn</a>
 
 - ⚡ Fun fact **I like sartorial dressing**
 
