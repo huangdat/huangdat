@@ -9,7 +9,7 @@
 
 - 📄 Know about my experiences <a href = "https://www.linkedin.com/in/ho%C3%A0ng-%C4%91%E1%BA%A1t-1363072a5/">LinkedIn</a>
 
-- ⚡ Fun fact **I like sartorial dressing**
+- ⚡ Fun fact **I like Ghibli and sartorial dressing**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
