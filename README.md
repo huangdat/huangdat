@@ -4,13 +4,11 @@
 
 - 👨‍💻 All of my projects are available at <a href = "https://www.linkedin.com/in/ho%C3%A0ng-%C4%91%E1%BA%A1t-1363072a5/">LinkedIn</a>
 
-- 💬 Ask me about **nothing**
-
 - 📫 How to reach me **hoangdat060504@gmail.com**
 
 - 📄 Know about my experiences <a href = "https://www.linkedin.com/in/ho%C3%A0ng-%C4%91%E1%BA%A1t-1363072a5/">LinkedIn</a>
 
-- ⚡ Fun fact **I like Ghibli and sartorial dressing**
+- ⚡ Fun fact **I love Ghibli and sartorial dressing**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
