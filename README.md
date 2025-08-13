@@ -1,7 +1,7 @@
 <h1 align="center">Konnichiwa🌹, I am Nguyen Hoang Dat</h1>
 <h3 align="center">Software engineer from South Vietnam</h3>
 
-- 👨‍💻 All of my projects are available at <a href = "https://www.linkedin.com/in/ho%C3%A0ng-%C4%91%E1%BA%A1t-1363072a5/">LinkedIn</a>
+- 👨‍💻 All of my projects are available at <a href = "https://github.com/huangdat">Github</a>
 
 - 📫 How to reach me **hoangdat060504@gmail.com**
 
